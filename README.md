@@ -1,4 +1,4 @@
-Hi, I'm Shivani! Full Stack developer focused on Frontend with ~3 years of experience in React.js and modern JavaScript.
+Hi, I'm Shivani! Full Stack developer focused on Frontend with 3 years of experience in Next.js, React.js and modern JavaScript.
 
 On my GitHub, you’ll find:
 
@@ -10,7 +10,7 @@ On my GitHub, you’ll find:
 
 ### Skills
 
-**Frontend:** JavaScript (ES6+), TypeScript, React.js, Redux, HTML5, CSS3, SCSS, Tailwind, Responsive Design.
+**Frontend:** JavaScript (ES6+), TypeScript, Next.js, React.js, Redux, Zustand, HTML5, CSS3, SCSS, Bootstrap, Tailwind, Responsive Design.
 
 **Backend:** Node.js, Express.js, RESTful APIs.
 
